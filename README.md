@@ -1,4 +1,4 @@
-Description:
+# Steganohraphy
 
 You can use encryption to send secret messages, but if you want to be even more subtle, you can hide them in plain sight: in an image.
 This kind of encryption is called steganography.
